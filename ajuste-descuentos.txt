@@ -1,0 +1,6 @@
+Ajuste 001: Se agrega funcionalidad de descuentos en módulo de ventas
+
+- Se agrega campo de descuento en la interfaz de ventas.
+- Se modifica el cálculo del total para aplicar el descuento.
+- Se actualiza la base de datos para registrar el descuento aplicado.
+- Se realizan pruebas unitarias del nuevo cálculo.
